@@ -46,11 +46,6 @@ button {
     border-color: $theme-border !important;
 }
 
-// Quora Logo
-.SiteHeader .header_logo a {
-    @include invert-back();
-}
-
 // submit question button
 .LookupBarSiteHeaderAddQuestion .submit_button,
 .LookupBarSiteHeaderAddQuestion .anon_wrapper,
